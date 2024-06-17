@@ -1,0 +1,97 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+h3 {
+    padding-top: 20px;
+    text-align: center;
+}
+.main {
+    height: 500px;
+    width: 350px;
+    border: 2px solid black;
+}
+.input-container {
+    display: -ms-flexbox; /* IE10 */
+    display: flex;
+    height: 30px;
+    width: 300px;
+    margin-bottom: 15px;
+    margin-left: 20px;
+  }
+  .input-name {
+    display: -ms-flexbox; /* IE10 */
+    display: flex;
+    width: 30px;
+    margin-left: 20px;
+  }
+  .input-container2 {
+    display: -ms-flexbox; /* IE10 */
+    display: flex;
+    width: 80px;
+    margin-left: 25px;
+  }
+  .div-1 {
+    display: flex;
+    gap: 50px;
+
+  }
+  .div-2 {
+    margin-top: 30px;
+    margin-left: 30px;
+    
+  }
+  .div-3 {
+    margin-top: 20px;
+   margin-left: 10px;
+  }
+  .div-4 {
+    margin-top: 20px;
+    margin-left: 30px;
+    font-size: 15px;
+    color:rgb(59, 57, 57);
+  }
+  .icon {
+    margin-left: 10px;
+    background: white;
+    color: black;
+    min-width: 30px;
+    text-align: center;
+    border: 1px solid grey
+  }
+  
+  .input-field {
+    width: 400px;
+    outline: none;
+  }
+  .input-field1 {
+    height: 30px;
+    width: 100px;
+    
+  }
+  .input-field2 {
+    height: 30px;
+    width: 100px;
+    
+  }
+  
+  .sel {
+    height: 30px;
+    width: 290px;
+    margin-left: 20px;
+    color: grey;
+  }
+  
+  /* Set a style for the submit button */
+  .btn {
+    background-color:rgb(255, 208, 0);
+    color: white;
+     border: none;
+     height: 30px;
+     width: 280px;
+     margin-top: 20px;
+     margin-left: 30px;
+
+  }
+  
+  
